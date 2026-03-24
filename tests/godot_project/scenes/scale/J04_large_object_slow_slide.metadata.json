@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "J_threshold_boundary", "description": "large object (400x300) with very slow smooth slide (10px total over 1s)"}

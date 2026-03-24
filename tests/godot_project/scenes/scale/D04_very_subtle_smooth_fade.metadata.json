@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "D_transition_magnitude", "description": "Pass — very subtle smooth fade (alpha 1.0->0.784, i.e. 255->200)"}

@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "L_scene_transitions", "description": "smooth fade to black: full-screen overlay alpha eases from 0 to 1 over 1s"}

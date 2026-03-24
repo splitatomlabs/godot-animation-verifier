@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "C_background_complexity", "description": "Fail — opacity snap at 0.533s (color alpha 1->0) on checkerboard background (8x5 grid of alternating dark/light gray ColorRects)"}

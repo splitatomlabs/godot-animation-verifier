@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "F_spawn_despawn", "description": "Object fades out smoothly (alpha 1->0 over 1s)"}

@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "J_threshold_boundary", "description": "object fades by 1 alpha per frame (minimal smooth fade, alpha 1.0 to 0.945 over 1s)"}

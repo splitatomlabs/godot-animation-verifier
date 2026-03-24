@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "F_spawn_despawn", "description": "Object snaps into existence at 0.267s (alpha 0->1 instant) then smoothly slides right from 0.267s to 1s"}

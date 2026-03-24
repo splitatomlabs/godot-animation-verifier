@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "F_spawn_despawn", "description": "Object disappears instantly at 0.533s (visible->invisible snap)"}

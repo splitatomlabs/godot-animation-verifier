@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "F_spawn_despawn", "description": "3 objects appear one by one with snap: green at 0.2s, blue at 0.4s, red at 0.6s"}

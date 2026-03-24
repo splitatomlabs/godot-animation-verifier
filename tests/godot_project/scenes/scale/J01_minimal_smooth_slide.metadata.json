@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "J_threshold_boundary", "description": "object moves 1px per frame (minimal smooth motion, 14px total over 1s)"}

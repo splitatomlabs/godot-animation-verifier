@@ -1,0 +1,12 @@
+{
+  "name": "godot-animation-verifier",
+  "version": "0.1.0",
+  "description": "Detect missing animations in Godot scenes — capture frames and verify transitions",
+  "author": {
+    "name": "Split Atom Labs"
+  },
+  "homepage": "https://github.com/splitatomlabs/godot-animation-verifier",
+  "repository": "https://github.com/splitatomlabs/godot-animation-verifier",
+  "license": "MIT",
+  "keywords": ["godot", "animation", "verification", "testing"]
+}

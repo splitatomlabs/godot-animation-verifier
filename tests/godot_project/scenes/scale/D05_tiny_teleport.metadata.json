@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "D_transition_magnitude", "description": "Fail — tiny teleport (50px jump), snap at 0.533s"}

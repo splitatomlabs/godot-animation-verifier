@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "C_background_complexity", "description": "Pass — smooth fade (alpha 1->0) on checkerboard background (8x5 grid of alternating dark/light gray ColorRects)"}

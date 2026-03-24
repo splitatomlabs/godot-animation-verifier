@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "L_scene_transitions", "description": "two-phase load: gameplay snaps to loading screen at 0.3s, loading screen snaps to new scene at 0.7s"}

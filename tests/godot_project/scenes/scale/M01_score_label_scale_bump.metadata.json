@@ -1,0 +1,5 @@
+{
+  "expected_pass": true,
+  "category": "M_text_animations",
+  "description": "Score label scale bump with TRANS_BACK easing and mid-animation text change"
+}

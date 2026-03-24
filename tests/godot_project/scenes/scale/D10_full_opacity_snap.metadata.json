@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "D_transition_magnitude", "description": "Fail — full opacity snap (alpha 1.0->0, i.e. 255->0), snap at 0.533s"}

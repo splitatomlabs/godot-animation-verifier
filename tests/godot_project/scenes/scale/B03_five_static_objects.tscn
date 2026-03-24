@@ -1,0 +1,38 @@
+[gd_scene format=3]
+
+[node name="Root" type="Node2D"]
+
+[node name="Rect1" type="ColorRect" parent="."]
+offset_left = 100.0
+offset_top = 100.0
+offset_right = 150.0
+offset_bottom = 150.0
+color = Color(0.251, 0.784, 0.251, 1)
+
+[node name="Rect2" type="ColorRect" parent="."]
+offset_left = 400.0
+offset_top = 200.0
+offset_right = 500.0
+offset_bottom = 300.0
+color = Color(0.251, 0.251, 0.784, 1)
+
+[node name="Rect3" type="ColorRect" parent="."]
+offset_left = 800.0
+offset_top = 400.0
+offset_right = 1000.0
+offset_bottom = 550.0
+color = Color(0.784, 0.251, 0.251, 1)
+
+[node name="Rect4" type="ColorRect" parent="."]
+offset_left = 1500.0
+offset_top = 600.0
+offset_right = 1580.0
+offset_bottom = 680.0
+color = Color(0.784, 0.784, 0.251, 1)
+
+[node name="Rect5" type="ColorRect" parent="."]
+offset_left = 1200.0
+offset_top = 800.0
+offset_right = 1500.0
+offset_bottom = 1000.0
+color = Color(0.784, 0.251, 0.784, 1)

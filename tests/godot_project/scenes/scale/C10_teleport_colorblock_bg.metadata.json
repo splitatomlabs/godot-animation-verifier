@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "C_background_complexity", "description": "Fail — teleport at 0.533s on multi-colored noisy block background (4x3 grid of varied red/blue/green/mixed ColorRects)"}

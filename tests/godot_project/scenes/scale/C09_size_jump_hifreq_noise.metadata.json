@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "C_background_complexity", "description": "Fail — size jump at 0.533s (200x200 to 400x400) on high-frequency noise texture background (FastNoiseLite frequency=0.1)"}

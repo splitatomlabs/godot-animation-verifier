@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "F_spawn_despawn", "description": "Object grows smoothly from 0 size at center to 200x150 over 1s"}

@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "J_threshold_boundary", "description": "2px teleport — smallest detectable jump (200x150 object snaps 2px at 0.533s)"}

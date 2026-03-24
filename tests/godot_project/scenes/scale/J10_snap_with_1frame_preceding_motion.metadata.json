@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "J_threshold_boundary", "description": "snap with 1-frame preceding motion (near preceding_motion threshold) — slides 10px at frame 1, then snaps 630px at frame 2"}

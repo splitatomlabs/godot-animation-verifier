@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "F_spawn_despawn", "description": "Object shrinks smoothly from 200x150 to 0 size at center over 1s"}

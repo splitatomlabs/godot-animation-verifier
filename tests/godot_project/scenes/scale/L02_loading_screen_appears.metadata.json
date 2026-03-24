@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "L_scene_transitions", "description": "loading screen appears: gameplay rect snaps to dark loading overlay at 0.4s simulating load trigger"}

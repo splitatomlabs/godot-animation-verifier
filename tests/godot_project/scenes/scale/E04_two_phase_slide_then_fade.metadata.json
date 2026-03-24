@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "E_animation_timing", "description": "two-phase smooth animation: slide 0-0.5s then fade 0.5-1.0s"}

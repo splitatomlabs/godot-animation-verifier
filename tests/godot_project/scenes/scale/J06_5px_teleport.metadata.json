@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "J_threshold_boundary", "description": "5px teleport — small but detectable jump (200x150 object snaps 5px at 0.533s)"}

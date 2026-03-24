@@ -1,0 +1,16 @@
+{
+  "name": "godot-animation-verifier",
+  "owner": {
+    "name": "Split Atom Labs"
+  },
+  "metadata": {
+    "description": "Detect missing animations in Godot scenes"
+  },
+  "plugins": [
+    {
+      "name": "godot-animation-verifier",
+      "source": ".",
+      "description": "Detect missing animations in Godot scenes — capture frames and verify transitions"
+    }
+  ]
+}

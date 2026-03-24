@@ -1,0 +1,1 @@
+{"expected_pass": true, "category": "C_background_complexity", "description": "Pass — smooth slide right on Perlin noise texture background (NoiseTexture2D with FastNoiseLite frequency=0.02)"}

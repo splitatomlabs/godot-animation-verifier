@@ -1,0 +1,1 @@
+{"expected_pass": false, "category": "J_threshold_boundary", "description": "8x8 object (below min_region_area ~10x10) teleports full width at 0.533s — may pass as too small to detect"}
