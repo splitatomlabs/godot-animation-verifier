@@ -1,6 +1,6 @@
 {
   "name": "godot-animation-verifier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Detect missing animations in Godot scenes — capture frames and verify transitions",
   "author": {
     "name": "Split Atom Labs"
