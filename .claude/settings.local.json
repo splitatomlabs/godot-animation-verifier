@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

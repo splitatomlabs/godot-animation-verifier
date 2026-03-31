@@ -3,6 +3,8 @@
 [![PyPI](https://img.shields.io/pypi/v/godot-animation-verifier)](https://pypi.org/project/godot-animation-verifier/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+![Example](example.gif)
+
 Detects missing animations in Godot scenes. AI coding agents produce functional games but often skip transitions. Positions, sizes, and opacities snap instantly instead of animating. This tool captures rendered frames, analyzes them for motion discontinuities, and returns a pass/fail diagnostic that agents or developers can act on.
 
 This tool is independent of Godot MCP servers and works great alongside them. MCP servers give agents the ability to edit scenes and manage project state; this tool verifies the visual result of those edits.
